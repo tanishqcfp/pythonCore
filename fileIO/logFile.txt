@@ -1,0 +1,3 @@
+INFO: Started
+ERROR: Missing token
+ERROR: Timeout
